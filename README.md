@@ -1,6 +1,6 @@
 # Stock-Data-Streaming
 
-### Project Description: Real-Time Stock Data Processing and Kafka Integration
+### Real-Time Stock Data Stream Processing leveraginh Kafka
 
 **Overview**
 
