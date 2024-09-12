@@ -1,6 +1,6 @@
 # Stock-Data-Streaming
 
-### Real-Time Stock Data Stream Processing leveraginh Kafka
+### Real-Time Stock Data Stream Processing leveraging Kafka
 
 **Overview**
 
