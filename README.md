@@ -1,4 +1,8 @@
-# Stock-Data-Streaming
+# Trading Engine
+
+<img width="544" alt="image" src="https://github.com/user-attachments/assets/8d4ae8dc-e5cc-40cd-96cf-e49eedff32f7">
+
+
 
 ### Real-Time Stock Data Stream Processing leveraging Kafka
 
