@@ -1,9 +1,8 @@
 ## AI powered Stock Picker orchestrated on Parallelized DAG Workflows
 
- ●  A scalable real-time Stock-Price analysis App leveraging Apache AirFlow and Spark for parallel and distributed processing of top Stocks
- ● Data fetched from Yahoo Finance, stored in Minio buckets, Feature Engineered using PySpark and input to MLLib models for Return
- Prediction, pipeline orchestrated as DAGs in AirFlow for parallelization, scheduling, robust monitoring, integration, and scaling
- ● Social alerts system and Frontend chart views have also been developed, and the application is containerized using Docker
+ - A scalable real-time Stock-Price analysis App leveraging Apache AirFlow and Spark for parallel and distributed processing of top Stocks
+ - Data fetched from Yahoo Finance, stored in Minio buckets, Feature Engineered using PySpark and input to MLLib models for Return Prediction, pipeline orchestrated as DAGs in AirFlow for parallelization, scheduling, robust monitoring, integration, and scaling
+ - Social alerts system and Frontend chart views have also been developed, and the application is containerized using Docker
 
 
 <img width="544" alt="image" src="https://github.com/user-attachments/assets/8d4ae8dc-e5cc-40cd-96cf-e49eedff32f7">
